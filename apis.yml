@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://developer.olx.pl/api/doc#section/
 common:
+  - type: DomainSecurity
+    url: security/olx-poland-domain-security.yml
   - type: Website
     url: https://developer.olx.pl/api/doc#section/
   - type: PublicAPIsListing
