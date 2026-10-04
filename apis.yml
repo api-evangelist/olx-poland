@@ -39,7 +39,6 @@ apis:
   - name: OLX Poland
     description: "Integrate with local sites by posting, managing adverts and communicating with OLX users"
     humanURL: https://developer.olx.pl/api/doc#section/
-    baseURL: https://developer.olx.pl/api/doc#section/
     tags:
       - Shopping
     properties:
